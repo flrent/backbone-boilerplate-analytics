@@ -7,6 +7,7 @@ This is a small module for backbone.js framework used with backbone-boilerplate 
 You just need to add this module into your app, maybe in the module directory or as we do into a repo directory, and add this few lines to your main.js file.
 
 ##Bind to the router the analytics module
+####Don't forget to require the module file.
 Add these few lines into your router initialize method.
 
 ```javascript  
